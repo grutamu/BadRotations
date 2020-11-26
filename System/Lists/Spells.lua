@@ -1529,7 +1529,7 @@ br.lists.spells = {
                 flamestrike                 = 2120,
                 livingBomb                  = 44457,
                 meteor                      = 153561,
-                phoenixFlames              = 257541,
+                phoenixFlames               = 257541,
                 pyroblast                   = 11366,
                 scorch                      = 2948,
             },
@@ -1541,6 +1541,7 @@ br.lists.spells = {
                 blazingBarrier              = 235313,
                 blasterMaster               = 274598,
                 combustion                  = 190319,
+                firestorm                   = 333097,
                 heatingUp                   = 48107,
                 hotStreak                   = 48108,
                 iceFloes                    = 108839,
@@ -1549,6 +1550,7 @@ br.lists.spells = {
                 pyroclasm                   = 269651,
             },
             debuffs                         = {
+                ignite                      = 12654,
                 meteorBurn                  = 155158,
                 cauterized                  = 87024,
 
