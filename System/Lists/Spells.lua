@@ -467,8 +467,12 @@ br.lists.spells = {
                 prepared                    = 203650,
                 unboundChaos                = 234059,
             },
+            conduits                        = {
+                serratedGlaive              = 339230,
+            },
             debuffs                         = {
                 essenceBreak                = 320338,
+                exposedWound                = 339229,
             },
             glyphs                          = {
 
@@ -592,6 +596,8 @@ br.lists.spells = {
 
             },
             buffs                           = {
+                chaosTheory                 = 337567,
+                felBombardment              = 337849,
                 felCrystalInfusion          = 193547,
                 gazeOfTheLegion             = 193456,
                 glide                       = 131347,
@@ -604,7 +610,8 @@ br.lists.spells = {
                 theHunt                     = 323639,
             },
             debuffs                         = {
-
+                burningWound                = 346278,
+                sinfulBrand                 = 317009,
             },
             glyphs                          = {
                 glyphOfCracklingFlames      = 219831,
@@ -616,6 +623,12 @@ br.lists.spells = {
                 glyphOfManaTouchedSouls     = 219744,
                 glyphOfShadowEnemies        = 220244,
                 glyphOfTatteredWings        = 220226,
+            },
+            runeforges                      = {
+                burningWound                = 346279,
+                chaosTheory                 = 337551,
+                felBombardment              = 337775,
+                razelikhsDefilement         = 337544,
             },
             talents                         = {
                 felblade                    = 232893,
@@ -1018,6 +1031,7 @@ br.lists.spells = {
             },
             conduits                        = {
                 deepAllegiance              = 341378,
+                tasteForBlood               = 340682,
             },
             covenants                       = {
                 adaptiveSwarm               = 325727,
@@ -1437,6 +1451,14 @@ br.lists.spells = {
             },
             glyphs                          = {
 
+            },
+            runeforges                      = {
+                eagletalonsTrueFocus        = 336849,
+                nesingwarysTrappingApparatus= 336743,
+                serpentstalkersTrickery     = 336870,
+                soulforgeEmbers             = 336745,
+                surgingShots                = 336867,
+                qaplaEredunWarOrder         = 336830,
             },
             talents                         = {
                 aMurderOfCrows              = 131894,
@@ -1975,17 +1997,17 @@ br.lists.spells = {
             buffs                           = {
                 theEmperorsCapacitor        = 235054,
                 transcendence               = 101643,
-                weaponsOfTheOrder           = 310454,
-                weaponsOfTheOrderWW         = 311054,
+                weaponsOfOrder              = 328908, --310454,
+                weaponsOfOrderWW            = 310454, --311054,
             },
             conduits                        = {
-                calculatedStrikes           = 336526,                      
+                calculatedStrikes           = 336526,                    
             },
             covenants                       = {
                 bonedustBrew                = 325216,
                 faelineStomp                = 327104,
                 fallenOrder                 = 326860,
-                weaponsOfTheOrder           = 310454,
+                weaponsOfOrder              = 310454,
             },
             debuffs                         = {
                 bonedustBrew                = 325216,
@@ -2046,7 +2068,7 @@ br.lists.spells = {
             },
             debuffs                         = {
                 judgement                   = 214222,
-                judgmentoflight             = 196941,
+                judgmentOfLight             = 196941,
                 glimmerOfLight              = 287280,
                 consecration                = 204242,
 
@@ -2835,6 +2857,7 @@ br.lists.spells = {
                 perforatedVeins             = 341572,
                 masterAssassin              = 256735,
                 coldBlood                   = 213981,
+                perforatedVeins             = 341572,
             },
             debuffs                         = {
                 rupture                     = 1943,
@@ -2872,13 +2895,13 @@ br.lists.spells = {
                 perforate                   = 277720,
                 inevitability               = 278683,
             },
-            runeforge                         = {
+            runeforges                      = {
                 finality                    = 340089,
                 akaarisSoulFragment         = 340090,
                 theRotten                   = 340091,
                 deathlyShadows              = 340092,
             },
-            conduit                           = {
+            conduits                        = {
                 deeperDaggers               = 341549,
                 perforatedVeins             = 341567,
                 plannedExecution            = 341556,
@@ -2934,16 +2957,14 @@ br.lists.spells = {
                 deathFromAbove              = 152150,
                 feint                       = 1966,
                 tricksOfTheTrade            = 57934,
-                masterAssassinsInitiative   = 235027, --235022
+                masterAssassinsMark         = 340094,
                 sprint                      = 2983,
                 stealth                     = 1784,
                 vanish                      = 11327 or 115193,
                 shroudOfConcealment         = 114018,
                 flagellation                = 345569,
                 sepsis                      = 328305,
-                echoingReprimand2           = 323558,
-                echoingReprimand3           = 323559,
-                echoingReprimand4           = 323560,
+                theRotten                   = 341134,
             },
             conduits                        = {
                 lashingScars                = 341310,
@@ -2986,11 +3007,11 @@ br.lists.spells = {
                 vigor                       = 14983,
               --  blindingPowder              = 256165,   commented it out as it created errors
             },
-            runeforge                         = {
+            runeforges                      = {
                 markOfTheMasterAssassin     = 340076,
                 essenceOfBloodfang          = 340079,
                 invigoratingShadowdust      = 340080,
-                tinyToxicBlades             = 340078,
+                tinyToxicBlade              = 340078,
             },
         },
     },
@@ -3230,6 +3251,7 @@ br.lists.spells = {
                 chainsOfDevastationHeal     = 336737,
                 doomWinds                   = 335903,
                 echoesOfGreatSundering      = 336216,
+                elementalEquilibrium        = 337348,
                 faeTransfusionRecast        = 328933,
                 ghostWolf                   = 2645,
                 lightningShield             = 192106,
@@ -3258,6 +3280,7 @@ br.lists.spells = {
             runeforges                      = {
                 chainsOfDevastation         = 336735,
                 doomWinds                   = 335902,
+                elementalEquilibrium        = 336730,
                 primalLavaActuators         = 335895,
                 echoesOfGreatSundering       = 336215,
                 skybreakersFieryDemise       = 336734,
@@ -3958,6 +3981,7 @@ br.lists.spells = {
                 flaskOfTheVastHorizon           = 251838,
                 flaskOfTheUndertow              = 251839,
                 fruitfulMachinatins             = 242623, -- Absorb Shield from Deceiver's Grand Design
+                mistcallerOcarina               = 330067, -- SL Trinket with group buff
                 greaterFlaskOfEndlessFathoms    = 298837,
                 greaterFlaskOfTheCurrents       = 298836,
                 greaterFlaskOfTheUndertow       = 298841,
