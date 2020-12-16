@@ -1866,6 +1866,8 @@ br.lists.spells = {
                 risingSunKick               = 107428,
                 soothingMist                = 115175,
                 thunderFocusTea             = 116680,
+                invokeYulonTheJadeSerpent   = 322118,
+                fortifyingBrew              = 243435,
             },
             artifacts                       = {
             },
@@ -3262,7 +3264,7 @@ br.lists.spells = {
                 astralShift                 = 108271,
                 chainsOfDevastationHeal     = 336737,
                 doomWinds                   = 335903,
-                echoesOfGreatSundering      = 336216,
+                echoesOfGreatSundering      = 336217,
                 elementalEquilibrium        = 337348,
                 faeTransfusionRecast        = 328933,
                 ghostWolf                   = 2645,
