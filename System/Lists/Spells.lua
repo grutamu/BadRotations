@@ -2406,6 +2406,7 @@ br.lists.spells = {
             abilities                       = {
                 angelicFeather              = 121536,
                 bodyAndMind                 = 214121,
+                circleOfHealing             = 204883,
                 desperatePrayer             = 19236,
                 divineHymn                  = 64843,
                 divineStar                  = 110744,
@@ -2453,7 +2454,6 @@ br.lists.spells = {
                 apotheosis                  = 200183,
                 bindingHeal                 = 32546,
                 --bodyAndMind                 = 214121,
-                circleOfHealing             = 204883,
                 divineStar                  = 110744,
                 --divinity                    = 197031,
                 halo                        = 120517,
@@ -2828,6 +2828,9 @@ br.lists.spells = {
                 guileCharm                  = 340086,
                 celerity                    = 340087,
                 concealedBlunderbuss        = 340088,
+            },
+            conduits                        = {
+                countTheOdds                = 341546,
             },
         },
         -- Subtlety
